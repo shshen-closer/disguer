@@ -15,7 +15,7 @@ A GPU with more than 10G memory
 
 Note: the whole training and testing process takes about one and a half hours with the RTX 3090 GPU
 
-## Before
+## pipeline
 
 First, put the datasets (i.e., 'keyid2idx.json', 'pykt_test.csv', 'questions.json', 'train_valid_sequences.csv') in the data file.
 
