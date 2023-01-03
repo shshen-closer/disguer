@@ -1,4 +1,4 @@
-# Global Knowledge Tracing Challenge @AAAI2023
+# KeyCoin@USTC solution for Global Knowledge Tracing Challenge @AAAI2023
 
 ## Dependencies:
 
