@@ -13,7 +13,7 @@
 ## Hardware:
 A GPU with more than 10G memory
 
-##Note: the whole training and testing process takes about one and a half hours
+Note: the whole training and testing process takes about one and a half hours
 
 ## Before
 
