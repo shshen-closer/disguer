@@ -304,6 +304,7 @@ def train():
             run_time = []
 
             for iii in range(FLAGS.epochs):
+                np.random.seed((iii)*20022)
                 np.random.shuffle(train_students)
                 a=datetime.now()
                 data_size = len(train_students)
